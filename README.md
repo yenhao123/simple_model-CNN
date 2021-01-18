@@ -1,5 +1,7 @@
 # simple_model-CNN
 
+language : python 3.8
+
 implemenation : keras
 
 dataset : Minst
@@ -10,7 +12,15 @@ dataset : Minst
 3. loss func setting (crossentropy)
 4. training & prediction
 
-## CNN
+### beforehand
+1. load_data
+2. normalization
+3. one_hot
+
+normalization :  make the special case influence lower 
+one_hot : make the problem to a binary classification problem
+
+## CNN intro
 
 ideas
 1. Convolution layer
