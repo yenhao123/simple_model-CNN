@@ -3,7 +3,7 @@
 implemenation : keras
 dataset : Minst
 
-#＃　method
+## method
 1. beforehand (prep data、data normalization..)
 2. model setting (CNN)
 3. loss func setting (crossentropy)
