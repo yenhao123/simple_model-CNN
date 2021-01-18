@@ -16,13 +16,13 @@ ideas
 1. Convolution layer
 2. Pooling layer
 
-Convolution layer
+### Convolution layer
 
 goal : feature detect
 
 method : the input image dot filter to form a feature map
 
-Pooling layer
+### Pooling layer
 
 goal : feature detect
 
