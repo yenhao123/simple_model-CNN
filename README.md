@@ -6,6 +6,9 @@ implemenation : keras
 
 dataset : Minst
 
+## Accuracy
+![image](https://github.com/yenhao123/simple_model-CNN/blob/main/accuracy.PNG)
+
 ## method
 1. beforehand (prep data、data normalization..)
 2. model setting (CNN)
