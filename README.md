@@ -1,6 +1,7 @@
 # simple_model-CNN
 
 implemenation : keras
+
 dataset : Minst
 
 ## method
@@ -16,9 +17,13 @@ ideas
 2. Pooling layer
 
 Convolution layer
+
 goal : feature detect
+
 method : the input image dot filter to form a feature map
 
 Pooling layer
+
 goal : feature detect
+
 method : pick the big one in the limited matrix
